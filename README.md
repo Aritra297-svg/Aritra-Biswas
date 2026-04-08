@@ -14,6 +14,8 @@
 * Data Visualization (Matplotlib, Seaborn)
 * SQL Basics
 * Git & GitHub
+* PHP(XAMPP)
+
 
 ---
 
@@ -22,6 +24,7 @@
 * 📊 Sales Data Analysis (Python + Pandas)
 * 📈 Dashboard using Streamlit
 * 📈 Amazon-Demo
+* PHP-EXAM-QUESTIONS-SYSTEM
 
 ---
 
